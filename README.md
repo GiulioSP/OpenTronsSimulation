@@ -107,7 +107,7 @@ The reservoir on slot 4 be pre-filled as follows:
 
     c.	Activate magdeck 2
 
-    d.	Take supernatant and move to fresh plate
+    d.	Take supernatant and move to result plate
 
 
   
