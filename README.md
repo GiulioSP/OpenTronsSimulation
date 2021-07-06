@@ -16,17 +16,17 @@ To include custom labware in simulation, I followed this guide on [Loading custo
 For an original protocol I will adapt the interview's Case Based Assessment example protocol described as "magnetic bead-based purification of an analyte from a mixture in plates". 
 
 Some of the protocol had to be adapted to the limitations of the OT-2:
-- Since it cannot move plates on or off magnetic modules, we will use the automated [Magnetic Module](https://support.opentrons.com/en/articles/1820112-magnetic-module), where the plate is still and the magnets are moved up and down along the protocol.   
+- Since it cannot move plates on or off magnetic modules, we will use the automated magnetic module [Magdeck](https://support.opentrons.com/en/articles/1820112-magnetic-module), where the plate is still and the magnets are moved up and down along the protocol.   
 - Since it does not have a Vortex module, we will use extensive pipette mixing to resuspend beads.
 - Since it does not have agitator modules, we will incubate without agitation or mixing. 
 
 ### The setup of the OT-2 machine
 |[]() | | |
 |:---:|:---:|:---:|
-| **10.** Empty | **11.** Empty | **12.** Trash |
-|**7.** Empty |**8.** Empty | **9.** Empty|
-|**4.** Magnet 2 with 96 well plate containing analyte | **5.** Empty | **6.** 96 Tip Rack 300 µL |
-| **1.** Magnet 1 with reservoir containing beads, buffer, wash and acid | **2.** Empty | **3.** 96 Tip Rack 20 µL |
+| **10.** 96 Tip Rack 20 µL | **11.** 96 Tip Rack 20 µL | **12.** Trash |
+|**7.** 96 well plate containing result |**8.** 96 Tip Rack 20 µL | **9.** 96 Tip Rack 20 µL |
+|**4.** Magdeck 2 with 96 well plate containing analyte | **5.** 96 Tip Rack 20 µL | **6.** 96 Tip Rack 20 µL |
+| **1.** Magdeck 1 with reservoir containing beads, buffer, wash and acid | **2.** 96 Tip Rack 300 µL | **3.** 96 Tip Rack 20 µL |
 
 Left pipette is a p300 multi
 Right pipette is a p20 single
@@ -39,7 +39,7 @@ Right pipette is a p20 single
 
     b.	Mix
 
-    c.	activate magnet 1
+    c.	activate magdeck 1
 
     d.	Wait for pellet
 
@@ -52,15 +52,15 @@ Right pipette is a p20 single
 
 2)	Spread into wells
 
-    a.	Add buffer to magnet 1 for the highest needed concentration 
+    a.	Add buffer to magdeck 1 for the highest needed concentration 
 
     b.	Mix
 
-    c.	Place in wells at magnet 2 at different volumes
+    c.	Place in wells at magdeck 2 at different volumes
 
     d.	Top up buffer so all volumes are the same
 
-    e.	Mix each one on magnet 2
+    e.	Mix each one on magdeck 2
     
 
 3)	Incubate
@@ -71,18 +71,18 @@ Right pipette is a p20 single
 
     c.	Wait 30min 
 
-    d.	Activate magnet 2
+    d.	Activate magdeck 2
     
 
-4)	Redo wash on magnet 2
+4)	Redo wash on magdeck 2
 
-    a.	Add wash to each well on magnet 2
+    a.	Add wash to each well on magdeck 2
 
-    b.	Mix each well on magnet 2
+    b.	Mix each well on magdeck 2
 
-    c.	Activate magnet 2
+    c.	Activate magdeck 2
 
-    d.	Wait for pellet on magnet 2
+    d.	Wait for pellet on magdeck 2
 
     e.	Remove old wash
 
@@ -91,11 +91,11 @@ Right pipette is a p20 single
 
 5)	Strip
 
-    a.	Add acid to each well on magnet 2
+    a.	Add acid to each well on magdeck 2
 
     b.	Mix each well
 
-    c.	Activate magnet 2
+    c.	Activate magdeck 2
 
     d.	Take supernatant and move to fresh plate
 
