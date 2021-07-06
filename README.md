@@ -29,6 +29,7 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 | **1.** Magdeck 1 with reservoir containing beads, buffer, wash, acid and trash | **2.** 96 Tip Rack 300 µL | **3.** 96 Tip Rack 20 µL |
 
 Left pipette is a p300 multi
+
 Right pipette is a p20 single
 
 Let the reservoir on slot 4 be pre-filled as follows:
