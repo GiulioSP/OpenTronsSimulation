@@ -30,35 +30,66 @@ The setup of the machine is:
 
 The adapted protocol is:
 1)	Pre-wash bead tube
+
     a.	Add wash 
+
     b.	Mix
+
     c.	activate magnet 1
+
     d.	Wait for pellet
+
     e.	Remove old wash
+
     f.	Change tip 
+
     g.	Repeat x3
+
 2)	Spread into wells
+
     a.	Add buffer to magnet 1 for the highest needed concentration 
+
     b.	Mix
+
     c.	Place in wells at magnet 2 at different volumes
+
     d.	Top up buffer so all volumes are the same
+
     e.	Mix each one on magnet 2
+
 3)	Incubate
+
     a.	Wait 30min 
+
     b.	Mix each well
+
     c.	Wait 30min 
+
     d.	Activate magnet 2
+
 4)	Redo wash on magnet 2
+
     a.	Add wash to each well on magnet 2
+
     b.	Mix each well on magnet 2
+
     c.	Activate magnet 2
+
     d.	Wait for pellet on magnet 2
+
     e.	Remove old wash
+
     f.	Repeat x3
+
 5)	Strip
+
     a.	Add acid to each well on magnet 2
+
     b.	Mix each well
+
     c.	Activate magnet 2
+
     d.	Take supernatant and move to fresh plate
+
 
   
