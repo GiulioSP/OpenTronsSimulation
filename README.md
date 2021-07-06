@@ -8,4 +8,9 @@ I will be using their [Python API](https://docs.opentrons.com/v2/) (specifically
 
 My Python environment is Python 3.7.3, run in a jupyter notebook. 
 
+For the magnetic plate, OT-2 uses an accessory that brings magnets close or far to the plate without moving it. More info about [Magnetic Module](https://support.opentrons.com/en/articles/1820112-magnetic-module).
+
+To include custom labware in simulation, I followed this guide on [Loading custom labware](https://support.opentrons.com/en/articles/3136506-using-labware-in-your-protocols).
+
+
   
