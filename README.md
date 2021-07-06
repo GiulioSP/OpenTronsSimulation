@@ -22,7 +22,7 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 
 ### The setup of the OT-2 machine
 |[]() | | |
-|:---:|:---:|:---:|
+|-----|-----|-----|
 | **10.** 96 Tip Rack 20 µL | **11.** 96 Tip Rack 20 µL | **12.** Trash |
 |**7.** 96 well plate containing result |**8.** 96 Tip Rack 20 µL | **9.** 96 Tip Rack 20 µL |
 |**4.** Magdeck 2 with 96 well plate containing analyte | **5.** 96 Tip Rack 20 µL | **6.** 96 Tip Rack 20 µL |
