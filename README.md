@@ -20,7 +20,7 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 - Since it does not have a Vortex module, we will use extensive pipette mixing to resuspend beads.
 - Since it does not have agitator modules, we will incubate without agitation or mixing. 
 
-The setup of the machine is:
+### The setup of the OT-2 machine
 |[]() | | |
 |:---:|:---:|:---:|
 | **10.** Empty | **11.** Empty | **N/A** |
@@ -28,7 +28,8 @@ The setup of the machine is:
 |**4.** Magnet 2 with 96 well plate containing analyte | **5.** Empty | **6.** 96 Tip Rack 300 µL |
 | **1.** Magnet 1 with reservoir containing beads, buffer, wash and acid | **2.** Empty | **3.** 96 Tip Rack 20 µL |
 
-The adapted protocol is:
+### The adapted protocol
+
 1)	Pre-wash bead tube
 
     a.	Add wash 
@@ -44,6 +45,7 @@ The adapted protocol is:
     f.	Change tip 
 
     g.	Repeat x3
+    
 
 2)	Spread into wells
 
@@ -56,6 +58,7 @@ The adapted protocol is:
     d.	Top up buffer so all volumes are the same
 
     e.	Mix each one on magnet 2
+    
 
 3)	Incubate
 
@@ -66,6 +69,7 @@ The adapted protocol is:
     c.	Wait 30min 
 
     d.	Activate magnet 2
+    
 
 4)	Redo wash on magnet 2
 
@@ -80,6 +84,7 @@ The adapted protocol is:
     e.	Remove old wash
 
     f.	Repeat x3
+
 
 5)	Strip
 
