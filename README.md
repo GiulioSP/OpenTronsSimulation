@@ -26,13 +26,15 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 | **10.** 96 Tip Rack 20 µL | **11.** 96 Tip Rack 20 µL         | **12.** Trash               |
 |**7.** 96 well plate containing result |**8.** 96 Tip Rack 20 µL | **9.** 96 Tip Rack 20 µL |
 |**4.** Magdeck 2 with 96 well plate containing analyte | **5.** 96 Tip Rack 20 µL | **6.** 96 Tip Rack 20 µL |
-| **1.** Magdeck 1 with reservoir containing beads, buffer, wash, acid and trash | **2.** 96 Tip Rack 300 µL | **3.** 96 Tip Rack 20 µL |
+| **1.** Magdeck 1 with reservoir | **2.** 96 Tip Rack 300 µL | **3.** 96 Tip Rack 20 µL |
 
 Left pipette is a p300 multi
 
 Right pipette is a p20 single
 
-Let the reservoir on slot 4 be pre-filled as follows:
+
+
+The reservoir on slot 4 be pre-filled as follows:
 - Beads in column 1
 - Wash in columns 2, 3, 4 and 5
 - Buffer in columns 6, 7 and 8
