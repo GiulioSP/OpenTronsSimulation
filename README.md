@@ -28,11 +28,11 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 |**4.** Magdeck 2 with 96 well plate containing analyte | **5.** 96 Tip Rack 20 µL | **6.** 96 Tip Rack 20 µL |
 | **1.** Magdeck 1 with reservoir | **2.** 96 Tip Rack 300 µL | **3.** 96 Tip Rack 20 µL |
 
-Left pipette is a p300 multi
+Left pipette is a p300 multi.
 
-Right pipette is a p20 single
+Right pipette is a p20 single.
 
-
+The analyte in the 96 well plate has varying amounts. In this simulation this was done as a linear gradient.
 
 The reservoir on slot 4 be pre-filled as follows:
 - Beads in column 1
