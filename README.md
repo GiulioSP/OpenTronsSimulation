@@ -23,10 +23,13 @@ Some of the protocol had to be adapted to the limitations of the OT-2:
 ### The setup of the OT-2 machine
 |[]() | | |
 |:---:|:---:|:---:|
-| **10.** Empty | **11.** Empty | **N/A** |
+| **10.** Empty | **11.** Empty | **12.** Trash |
 |**7.** Empty |**8.** Empty | **9.** Empty|
 |**4.** Magnet 2 with 96 well plate containing analyte | **5.** Empty | **6.** 96 Tip Rack 300 µL |
 | **1.** Magnet 1 with reservoir containing beads, buffer, wash and acid | **2.** Empty | **3.** 96 Tip Rack 20 µL |
+
+Left pipette is a p300 multi
+Right pipette is a p20 single
 
 ### The adapted protocol
 
